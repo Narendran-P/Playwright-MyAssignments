@@ -1,5 +1,3 @@
-const { type } = require("node:os")
-
 let userName = "Narendran.P"// String
 let organization = "TestLeaf" // String
 let contactNumber = 123 // Number
